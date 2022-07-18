@@ -29,6 +29,9 @@ file size of the zip file.
 
 ## Release Notes
 
+### 3.2.0 (July 18, 2022)
+* Fixed zip traversal issue
+
 ### 3.1.0 (Feb 23, 2016)
 * Updated SSZipArchive (ios lib) to 1.1
 
